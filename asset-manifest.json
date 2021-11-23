@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/registration-form-react-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/registration-form-react-app/static/js/main.e7672b99.chunk.js",
-    "main.js.map": "/registration-form-react-app/static/js/main.e7672b99.chunk.js.map",
-    "runtime-main.js": "/registration-form-react-app/static/js/runtime-main.bc188403.js",
-    "runtime-main.js.map": "/registration-form-react-app/static/js/runtime-main.bc188403.js.map",
-    "static/js/2.cdb95b40.chunk.js": "/registration-form-react-app/static/js/2.cdb95b40.chunk.js",
-    "static/js/2.cdb95b40.chunk.js.map": "/registration-form-react-app/static/js/2.cdb95b40.chunk.js.map",
-    "static/js/3.de6a4ee9.chunk.js": "/registration-form-react-app/static/js/3.de6a4ee9.chunk.js",
-    "static/js/3.de6a4ee9.chunk.js.map": "/registration-form-react-app/static/js/3.de6a4ee9.chunk.js.map",
+    "main.css": "/registration-form-react-app/static/css/main.b24536a4.chunk.css",
+    "main.js": "/registration-form-react-app/static/js/main.2bdd8b82.chunk.js",
+    "main.js.map": "/registration-form-react-app/static/js/main.2bdd8b82.chunk.js.map",
+    "runtime-main.js": "/registration-form-react-app/static/js/runtime-main.88f4a763.js",
+    "runtime-main.js.map": "/registration-form-react-app/static/js/runtime-main.88f4a763.js.map",
+    "static/js/2.8747a28f.chunk.js": "/registration-form-react-app/static/js/2.8747a28f.chunk.js",
+    "static/js/2.8747a28f.chunk.js.map": "/registration-form-react-app/static/js/2.8747a28f.chunk.js.map",
     "index.html": "/registration-form-react-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/registration-form-react-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cdb95b40.chunk.js.LICENSE.txt": "/registration-form-react-app/static/js/2.cdb95b40.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/registration-form-react-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.b24536a4.chunk.css.map": "/registration-form-react-app/static/css/main.b24536a4.chunk.css.map",
+    "static/js/2.8747a28f.chunk.js.LICENSE.txt": "/registration-form-react-app/static/js/2.8747a28f.chunk.js.LICENSE.txt",
+    "static/media/arrow.ddb8e020.svg": "/registration-form-react-app/static/media/arrow.ddb8e020.svg",
+    "static/media/bestRest.2aa22185.svg": "/registration-form-react-app/static/media/bestRest.2aa22185.svg",
+    "static/media/index.css": "/registration-form-react-app/static/media/bg-cover.faace39a.jpg",
+    "static/media/envelope.f95d2e32.svg": "/registration-form-react-app/static/media/envelope.f95d2e32.svg",
+    "static/media/map-marker.ca8b2d7d.svg": "/registration-form-react-app/static/media/map-marker.ca8b2d7d.svg",
+    "static/media/padlock-confirm.cf5b748e.svg": "/registration-form-react-app/static/media/padlock-confirm.cf5b748e.svg",
+    "static/media/padlock.16cdd2a8.svg": "/registration-form-react-app/static/media/padlock.16cdd2a8.svg",
+    "static/media/phone.9706ae59.svg": "/registration-form-react-app/static/media/phone.9706ae59.svg",
+    "static/media/user.570c67d1.svg": "/registration-form-react-app/static/media/user.570c67d1.svg",
+    "static/media/users.cc2342b8.svg": "/registration-form-react-app/static/media/users.cc2342b8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc188403.js",
-    "static/js/2.cdb95b40.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e7672b99.chunk.js"
+    "static/js/runtime-main.88f4a763.js",
+    "static/js/2.8747a28f.chunk.js",
+    "static/css/main.b24536a4.chunk.css",
+    "static/js/main.2bdd8b82.chunk.js"
   ]
 }
